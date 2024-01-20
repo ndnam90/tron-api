@@ -22,7 +22,6 @@
         "comely-io/data-types": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
         "web3p/web3.php": "dev-master",
-        "kornrunner/secp256k1": "^0.2",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
         "ext-bcmath": "*",
